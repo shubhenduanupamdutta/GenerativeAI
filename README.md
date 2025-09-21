@@ -12,3 +12,4 @@
 
 - [Natural Language Processing (NLP)](NaturalLanguageProcessing.md)
 - [Tokens In Generative AI](TokensInGenerativeAI.md)
+- [Tools Suggestions By Experts](ToolsSuggestions.md)
